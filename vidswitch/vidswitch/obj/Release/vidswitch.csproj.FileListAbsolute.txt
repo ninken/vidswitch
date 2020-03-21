@@ -1,0 +1,4 @@
+C:\Users\nin2k\Documents\SharpDevelop Projects\vidswitch\vidswitch\bin\Release\vidswitch.exe.config
+C:\Users\nin2k\Documents\SharpDevelop Projects\vidswitch\vidswitch\bin\Release\vidswitch.exe
+C:\Users\nin2k\Documents\SharpDevelop Projects\vidswitch\vidswitch\obj\Release\vidswitch.csprojResolveAssemblyReference.cache
+C:\Users\nin2k\Documents\SharpDevelop Projects\vidswitch\vidswitch\obj\Release\vidswitch.exe
